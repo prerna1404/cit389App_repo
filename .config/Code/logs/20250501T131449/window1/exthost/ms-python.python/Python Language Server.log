@@ -1,0 +1,28 @@
+2025-05-01 13:15:16.348 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
+2025-05-01 13:15:17.156 [info] [Info  - 1:15:17 PM] (13609) Server root directory: file:///home/vboxuser/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-01 13:15:17.157 [info] [Info  - 1:15:17 PM] (13609) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-05-01 13:15:17.157 [info] [Info  - 1:15:17 PM] (13609) Starting service instance "cit389" for workspace "/home/vboxuser/cit389"
+2025-05-01 13:15:17.300 [info] [Info  - 1:15:17 PM] (13609) Setting environmentName for service "cit389": "3.10.12 (global)"
+2025-05-01 13:15:17.300 [info] [Info  - 1:15:17 PM] (13609) Setting pythonPath for service "cit389": "/bin/python3"
+2025-05-01 13:15:17.301 [info] [Info  - 1:15:17 PM] (13609) No include entries specified; assuming /home/vboxuser/cit389
+2025-05-01 13:15:17.302 [info] [Info  - 1:15:17 PM] (13609) Auto-excluding **/node_modules
+2025-05-01 13:15:17.302 [info] [Info  - 1:15:17 PM] (13609) Auto-excluding **/__pycache__
+2025-05-01 13:15:17.303 [info] [Info  - 1:15:17 PM] (13609) Auto-excluding **/.*
+2025-05-01 13:15:17.439 [info] [Info  - 1:15:17 PM] (13609) Assuming Python version 3.10.12.final.0
+2025-05-01 13:15:18.388 [info] [Info  - 1:15:18 PM] (13609) Found 1 source file
+2025-05-01 13:15:18.609 [info] [Info  - 1:15:18 PM] (13609) Setting environmentName for service "cit389": "3.10.12 (global)"
+2025-05-01 13:15:18.609 [info] [Info  - 1:15:18 PM] (13609) Setting pythonPath for service "cit389": "/bin/python3"
+2025-05-01 13:15:18.609 [info] [Info  - 1:15:18 PM] (13609) No include entries specified; assuming /home/vboxuser/cit389
+2025-05-01 13:15:18.609 [info] [Info  - 1:15:18 PM] (13609) Auto-excluding **/node_modules
+2025-05-01 13:15:18.609 [info] [Info  - 1:15:18 PM] (13609) Auto-excluding **/__pycache__
+2025-05-01 13:15:18.609 [info] [Info  - 1:15:18 PM] (13609) Auto-excluding **/.*
+2025-05-01 13:15:18.825 [info] [Info  - 1:15:18 PM] (13609) Assuming Python version 3.10.12.final.0
+2025-05-01 13:15:19.289 [info] [Info  - 1:15:19 PM] (13609) Found 1 source file
+2025-05-01 13:15:22.790 [info] [Info  - 1:15:22 PM] (13609) BG: Priority queue background worker(2) root directory: file:///home/vboxuser/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-01 13:15:22.793 [info] [Info  - 1:15:22 PM] (13609) BG: Priority queue background worker(2) started
+2025-05-01 13:15:24.477 [info] [Info  - 1:15:24 PM] (13609) BG: Indexer background runner(3) root directory: file:///home/vboxuser/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-05-01 13:15:24.483 [info] [Info  - 1:15:24 PM] (13609) BG: Indexing(3) started
+2025-05-01 13:15:26.830 [info] [Info  - 1:15:26 PM] (13609) BG: [IDX(3)] Long operation: scan packages file:///home/vboxuser/cit389 (2126ms)
+2025-05-01 13:15:26.830 [info] [Info  - 1:15:26 PM] (13609) BG: scanned(3) 87 files over 1 exec env
+2025-05-01 13:15:27.205 [info] [Info  - 1:15:27 PM] (13609) BG: indexed(3) 87 files over 1 exec env
+2025-05-01 13:15:27.262 [info] [Info  - 1:15:27 PM] (13609) BG: Indexing finished(3).

@@ -1,0 +1,66 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "1b455db5bfa53acc9c21b9a0eabce3e7fc45f995b1d6591a6beb1fea4d76c054",
+    "telemetry.devDeviceId": "324c2a5f-7fd0-444e-b6f7-cee3517f9508",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/vboxuser/cit389"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/vboxuser/DjangoFolder": "__default__profile__",
+            "file:///home/vboxuser/cit389": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/vboxuser/cit389",
+            "backupPath": "/home/vboxuser/.config/Code/Backups/5ad528deafb025dace7141b6f5c662b6",
+            "uiState": {
+                "mode": 0,
+                "x": 70,
+                "y": 27,
+                "width": 1210,
+                "height": 773
+            }
+        },
+        "openedWindows": []
+    }
+}

@@ -1,0 +1,43 @@
+2025-04-29 15:52:49.624 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-29 15:52:49.807 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-29 15:52:49.807 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-29 15:52:50.318 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 21ms.
+2025-04-29 15:52:50.379 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 29ms.
+2025-04-29 15:52:50.426 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 35ms.
+2025-04-29 15:52:50.472 [warning] Creation of workbench contribution 'workbench.contrib.localTerminalBackend' took 26ms.
+2025-04-29 15:52:50.494 [warning] Creation of workbench contribution 'workbench.contrib.textMateTokenizationInstantiator' took 30ms.
+2025-04-29 15:52:50.563 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 35ms.
+2025-04-29 15:52:50.615 [warning] Creation of workbench contribution 'workbench.contrib.chatAgentSetting' took 48ms.
+2025-04-29 15:52:50.654 [warning] Creation of workbench contribution 'workbench.contrib.chatTransfer' took 22ms.
+2025-04-29 15:52:50.681 [warning] Creation of workbench contribution 'mcpContextKeys' took 30ms.
+2025-04-29 15:52:50.729 [warning] Creation of workbench contribution 'mcpUrlHandler' took 43ms.
+2025-04-29 15:52:50.760 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 23ms.
+2025-04-29 15:52:50.807 [warning] Creation of workbench contribution 'workbench.contrib.localHistoryTimeline' took 33ms.
+2025-04-29 15:52:52.341 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-29 15:52:56.354 [info] Started local extension host with pid 8700.
+2025-04-29 15:53:00.139 [info] Started initializing default profile extensions in extensions installation folder. file:///home/vboxuser/.vscode/extensions
+2025-04-29 15:53:03.346 [warning] Creation of workbench contribution 'chat.edits.editorOverlay' took 123ms.
+2025-04-29 15:53:05.504 [warning] Creation of workbench contribution 'chat.edits.editorContextKeys' took 140ms.
+2025-04-29 15:53:16.953 [warning] Creation of workbench contribution 'mcpDiscovery' took 312ms.
+2025-04-29 15:53:24.485 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/vboxuser/.vscode/extensions
+2025-04-29 15:53:39.708 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-29 15:54:45.092 [info] Extension host (LocalProcess pid: 8700) is unresponsive.
+2025-04-29 15:54:48.287 [info] Extension host (LocalProcess pid: 8700) is responsive.
+2025-04-29 15:55:28.736 [warning] Creation of workbench contribution 'chat.nativeBuiltinTools' took 468ms.
+2025-04-29 15:55:32.828 [info] Extension host (LocalProcess pid: 8700) is unresponsive.
+2025-04-29 15:55:32.830 [info] Extension host (LocalProcess pid: 8700) is responsive.
+2025-04-29 15:55:35.350 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 870ms.
+2025-04-29 15:55:41.933 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 339ms.
+2025-04-29 15:55:48.389 [warning] Creation of workbench contribution 'workbench.contrib.dropOrPasteIntoSchema' took 259ms.
+2025-04-29 15:55:48.674 [info] [perf] Render performance baseline is -1ms
+2025-04-29 16:07:58.357 [error] Cannot register two commands with the same id: _workbench.openUserSettingsEditor: Error: Cannot register two commands with the same id: _workbench.openUserSettingsEditor
+    at A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:34:31760)
+    at t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:81497)
+    at Hse.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:81817)
+    at E.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at aqs.updateCurrentProfile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3211:89449)
+    at UGe.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1840:76868)
+    at Hse.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1840:74572)
+    at E.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)

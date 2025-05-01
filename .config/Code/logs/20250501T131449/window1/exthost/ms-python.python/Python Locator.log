@@ -1,0 +1,27 @@
+2025-05-01 13:15:14.708 [info] Starting Python Locator /home/vboxuser/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python-env-tools/bin/pet server
+2025-05-01 13:15:15.356 [info] Discovered env: /bin/python3
+2025-05-01 13:15:15.384 [info] Discovered env: /usr/bin/python3
+2025-05-01 13:15:15.391 [info] Locator Conda took 653.706474ms
+2025-05-01 13:15:15.391 [info] Locator Homebrew took 327.525µs
+2025-05-01 13:15:15.391 [info] Locator LinuxGlobal took 625.719021ms
+2025-05-01 13:15:15.391 [info] Locator PipEnv took 19.995µs
+2025-05-01 13:15:15.391 [info] Locator Pixi took 21.01µs
+2025-05-01 13:15:15.391 [info] Locator Poetry took 6.244403ms
+2025-05-01 13:15:15.392 [info] Locator PyEnv took 21.169693ms
+2025-05-01 13:15:15.392 [info] Locator Venv took 9.955µs
+2025-05-01 13:15:15.392 [info] Locator VirtualEnv took 10.691µs
+2025-05-01 13:15:15.392 [info] Locator VirtualEnvWrapper took 12.628µs
+2025-05-01 13:15:15.395 [info] Locator GlobalVirtualEnvs took 541.603µs
+2025-05-01 13:15:15.395 [info] Locator Locators took 660.78455ms
+2025-05-01 13:15:15.395 [info] Locator Path took 687.774666ms
+2025-05-01 13:15:15.395 [info] Locator Workspaces took 6.718799ms
+2025-05-01 13:15:15.395 [info] Refresh completed in 695ms
+2025-05-01 13:15:15.398 [info] Resolved Python Environment /bin/python3
+2025-05-01 13:17:28.070 [info] Resolved Python Environment /bin/python3
+2025-05-01 13:18:00.337 [info] Resolved Python Environment /bin/python3
+2025-05-01 14:15:05.941 [info] Resolved Python Environment /bin/python3
+2025-05-01 14:16:05.420 [info] Resolved Python Environment /bin/python3
+2025-05-01 14:21:55.154 [info] Resolved Python Environment /bin/python3
+2025-05-01 14:23:43.439 [info] Resolved Python Environment /bin/python3
+2025-05-01 14:52:17.679 [info] Resolved Python Environment /bin/python3
+2025-05-01 14:53:09.195 [info] Resolved Python Environment /bin/python3

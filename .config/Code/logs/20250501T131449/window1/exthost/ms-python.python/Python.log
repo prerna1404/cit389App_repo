@@ -1,0 +1,10 @@
+2025-05-01 13:15:14.708 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-05-01 13:15:14.708 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-05-01 13:15:14.708 [info] Native locator: Refresh started
+2025-05-01 13:15:14.708 [info] Native locator: Refresh started
+2025-05-01 13:15:14.708 [info] > pyenv which python
+2025-05-01 13:15:14.708 [info] cwd: .
+2025-05-01 13:15:15.396 [info] Native locator: Refresh finished in 7625 ms
+2025-05-01 13:15:15.407 [info] Python interpreter path: /bin/python3
+2025-05-01 13:15:17.194 [info] Starting Pylance language server.
+2025-05-01 14:18:09.492 [info] Discover tests for workspace name: cit389 - uri: /home/vboxuser/cit389/mycode.py
